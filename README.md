@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**eduardotrandafilov/eduardotrandafilov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>
+  <a href="https://www.linkedin.com/in/eduardo-trandafilov-0ba458b1" rel="nofollow">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" alt="Linkedin Badge" style="max-width:100%;">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+### Eu sou Eduardo e trabalho com desenvolvimento de software no Brasil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Estou sempre interessado em aprender assuntos novos :coffee::computer:
+Atualmente, estou aprendendo sobre os seguintes tópicos:
+- Computação em nuvem utilizando a plataforma AWS e seus principais serviços voltados para desenvolvimento
+- GraphQL com objetivo de implementar novas soluções de APIs 
+- MongoDB baseado em banco de dados NoSQL 
+
+
+#### Fique à vontade para entrar em contato comigo para trocar ideias, experiências ou caso tenha alguma dúvida a esclarecer :mailbox_with_mail::memo:
+Meus conhecimentos e skills são:
+- HTML5, CSS3, JavaScript,Java
+- Wordpress,React JS,TypeScript,NodeJS,JQuery,Spring,SASS
+- Jest,JUnit
+- Automação com Webpack,Jenkins
+- Versionamento Git,SVN,RTC 
+- Gerenciadores de pacotes npm,maven 
