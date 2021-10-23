@@ -6,7 +6,7 @@
   </a>
   
   <a href="https://twitter.com/eduardo_tran" rel="nofollow">
-    <img alt="Twitter Badge" src="https://img.shields.io/twitter/url?label=Twitter&style=social>
+    <img alt="Twitter Badge" src="https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2Feduardo_tran">
   </a>
 </p>
 
