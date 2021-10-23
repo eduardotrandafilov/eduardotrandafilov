@@ -4,6 +4,10 @@
   <a href="https://www.linkedin.com/in/eduardo-trandafilov-0ba458b1" rel="nofollow">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" alt="Linkedin Badge" style="max-width:100%;">
   </a>
+  
+  <a href="https://twitter.com/eduardo_tran" rel="nofollow">
+    <img alt="Twitter Badge" src="https://img.shields.io/twitter/url?label=Twitter&style=social>
+  </a>
 </p>
 
 ### Eu sou Eduardo e trabalho com desenvolvimento de software no Brasil
