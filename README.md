@@ -11,13 +11,36 @@
 Atualmente desenvolvi atividades que abrangem :
 - Planejamento e estratégia de testes
   * Criação de cenários
+    * Projeto   
   * Análise de riscos
+    * Projeto
   * Criação de critérios de aceite
-
-
-
+    * Projeto 
+- Técnicas ágeis
+  * Aplicação de testes orientado a comportamento
+    * Projeto
+    * Ferramenta Cucumber
+- Técnicas de teste UI (manual)
+  * Testes de acessibilidade
+    * Projeto
+- Automações de UI 
+  * Projeto
+    * Ferramenta cypress
+- Testes de API Rest(manual)
+  * Projeto
+    * Ferramenta postman
+- Testes de API Rest(automatizado)
+  * Projeto
+    * Ferramenta cypress
+- Práticas devops
+  * Implementação de Integração Contínua
+    * Projeto
+      * Ferramenta Docker e Jenkins    
+   
 #### Fique à vontade para entrar em contato comigo para trocar ideias, experiências ou caso tenha alguma dúvida a esclarecer :mailbox_with_mail::memo:
 Meus conhecimentos e skills são:
-- Frameworks de teste
-
-
+- Práticas ágeis
+  * Metodologia Scrum e kanban
+  * Projeto
+- Programação
+  * Linguagens
