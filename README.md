@@ -20,7 +20,7 @@ Atualmente desenvolvi atividades que abrangem :
   * Aplicação de testes orientado a comportamento
     * Projeto
     * Ferramenta Cucumber
-- Técnicas de teste UI (manual)
+- Técnicas de teste UI para web(manual)
   * Testes de acessibilidade
     * Projeto
 - Automações de UI 
