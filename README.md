@@ -7,7 +7,7 @@ Estou focado no aprendizado de testes de software !
 
 ![eduardotrandafilov's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotrandafilov&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-Clique e veja os projetos desenvolvidos
+Clique e veja os projetos desenvolvidos e atividades
 
 - Relatório de Análise da qualidade de um produto
   * **[Projeto](https://docs.google.com/document/d/16oRZavxbadprwqAsyrIKEva33sYxI2NM/edit?usp=drive_link&ouid=113410598717466722374&rtpof=true&sd=true)**
