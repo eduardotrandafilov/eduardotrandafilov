@@ -1,46 +1,50 @@
-### Hi there 👋
+Olá, sou Eduardo
+Analista de Qualidade de Software!
 
-<p>
-  <a href="https://www.linkedin.com/in/eduardo-trandafilov-0ba458b1" rel="nofollow">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=plastic&logo=linkedin&logoColor=white" alt="Linkedin Badge" style="max-width:100%;">
-  </a>
+Estou focado no aprendizado de testes de software !
 
-### Eu sou Eduardo e estou aprimorando minhas habilidades em testes de software
+![eduardotrandafilov's Stats](https://github-readme-stats.vercel.app/api?username=eduardotrandafilov&theme=vue-dark&show_icons=true&hide_border=true&count_private=false)
 
-#### Estou sempre interessado em aprender assuntos novos :coffee::computer:
-Atualmente desenvolvi atividades que abrangem :
-- Planejamento e estratégia de testes
-  * Criação de cenários
-    * Projeto   
-  * Análise de riscos
-    * Projeto
-  * Criação de critérios de aceite
-    * Projeto 
+![eduardotrandafilov's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=eduardotrandafilov&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
+Clique e veja os projetos desenvolvidos
+
+- Relatório de Análise da qualidade de um produto
+  * **[Projeto](https://docs.google.com/document/d/16oRZavxbadprwqAsyrIKEva33sYxI2NM/edit?usp=drive_link&ouid=113410598717466722374&rtpof=true&sd=true)**
+- Relatório de report de bug e melhoria
+  * **[Bug report](https://docs.google.com/document/d/1Uef6WM94NWCXJTbc59Sbdx-ibID6FCXm/edit?usp=drive_link&ouid=113410598717466722374&rtpof=true&sd=true)**
+  * **[Melhoria report](https://docs.google.com/document/d/1jGTMmJrA_Vk8PxRzlHozCRQqxM6fbkEn2SHVVXKNtwc/edit?usp=drive_link)**
+- Técnicas de teste
+  * **[Atividade](https://drive.google.com/drive/folders/1Q9Fn3MmSr9aJN-krvAAIDwjotCWY3bdh?usp=drive_link)**
+- Criação de cenários e Análise de riscos
+    * **[Atividade](https://docs.google.com/document/d/1sVClk3Pv2qry1SdMWjHREayyGG4HrsSx/edit?usp=drive_link&ouid=113410598717466722374&rtpof=true&sd=true)**  
+- Criação de critérios de aceite
+    * **[Atividade](https://drive.google.com/drive/folders/1NlJElYljriUv4cZ85-M4Ey9obWsf6LEM?usp=drive_link)**
 - Técnicas ágeis
   * Aplicação de testes orientado a comportamento
-    * Projeto
-    * Ferramenta Cucumber
+    * **[Atividade](https://github.com/eduardotrandafilov/cucumber)** 
 - Técnicas de teste UI para web(manual)
   * Testes de acessibilidade
-    * Projeto
+    * **[Atividade](https://docs.google.com/document/d/1j8UcsgfjJkt61I1ws3sUGsNilItdllQz/edit?usp=drive_link&ouid=113410598717466722374&rtpof=true&sd=true)** 
 - Automações de UI 
-  * Projeto
-    * Ferramenta cypress
+  * **[Projeto teste funcional](https://github.com/eduardotrandafilov/teste-ebac-ui)**
+  * **[Projeto fluxo compra](https://github.com/eduardotrandafilov/teste-e2e-ebac)**
 - Testes de API Rest(manual)
-  * Projeto
-    * Ferramenta postman
+  * **[Atividade](https://github.com/eduardotrandafilov/teste-api-serverest)**
 - Testes de API Rest(automatizado)
-  * Projeto
-    * Ferramenta cypress
+  * [Projeto](https://github.com/eduardotrandafilov/teste-api-ebac)
+- Testes mobile (manual)
+  * **[Projeto](https://github.com/eduardotrandafilov/testes-mobile)**
 - Práticas devops
   * Implementação de Integração Contínua
-    * Projeto
-      * Ferramenta Docker e Jenkins    
-   
-#### Fique à vontade para entrar em contato comigo para trocar ideias, experiências ou caso tenha alguma dúvida a esclarecer :mailbox_with_mail::memo:
-Meus conhecimentos e skills são:
-- Práticas ágeis
+    * [Conhecimentos adquiridos](https://drive.google.com/file/d/17MLONyhLshgNsij8U585m9umUaFqfyD3/view?usp=sharing)   
+- Práticas ágeis 
   * Metodologia Scrum e kanban
-  * Projeto
-- Programação
-  * Linguagens
+    * [Conhecimentos adquiridos](https://drive.google.com/file/d/1-uGgb4F6tSBOxVotmyWy4pwvajmAOQ56/view?usp=sharing)
+    * [Atividade realizada](https://drive.google.com/drive/folders/1v4BoKk7fZnxRFqx13gSI_kzF-01EmvWS?usp=sharing)
+
+
+
+
+
+
