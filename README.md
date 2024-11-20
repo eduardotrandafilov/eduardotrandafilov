@@ -10,7 +10,7 @@ Eu acompanho novidades em comunidades de Telegram, WhatsApp, LinkedIn e YouTube,
 ## 🧑‍🎓 Formação e Estudos
 
 ### Formação Ebac 📚
-- [Engenheiro de Qualidade de Software - Ebac](https://github.com/eduardotrandafilov/eduardotrandafilov)
+- [Engenheiro de Qualidade de Software - Ebac](https://github.com/eduardotrandafilov/listaprojetos)
 
 ### Siga-me nas redes:
 [![LinkedIn](https://badgen.net/badge/Linkedin/eduardotrandafilov?icon=linkedin)](https://www.linkedin.com/in/eduardotrandafilov/)
