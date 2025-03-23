@@ -11,7 +11,8 @@ Eu acompanho novidades em comunidades de Telegram, WhatsApp, LinkedIn e YouTube,
 
 ### Formação Ebac 📚
 - [Engenheiro de Qualidade de Software - Ebac](https://github.com/eduardotrandafilov/listaprojetos)
-
+### Estudos Java 📚
+- [Spring boot](https://github.com/eduardotrandafilov/springboot)
 ### Siga-me nas redes:
 [![LinkedIn](https://badgen.net/badge/Linkedin/eduardotrandafilov?icon=linkedin)](https://www.linkedin.com/in/eduardotrandafilov/)
 
